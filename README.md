@@ -1,4 +1,4 @@
-highlighting xml syntax in ```jsx``` files. Useful when you using (react.js)[http://facebook.github.io/react/]
+highlighting xml syntax in ```jsx``` files. Useful when you using [react.js](http://facebook.github.io/react/)
 
 ## Installation 
 
