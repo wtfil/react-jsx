@@ -11,7 +11,8 @@ in your ```.vimrc``` add
 
 You can change highlighting of react components by using ```ReactComponent```
 
-    hi ReactComponent ctermfg=magenta
+    hi ReactComponent ctermfg=magenta " ex: TodoApp
+    hi ReactInlineCode ctermfg=lightgreen
 
 
 ## Result
