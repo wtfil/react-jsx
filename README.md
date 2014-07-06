@@ -2,9 +2,9 @@ highlighting xml syntax in ```jsx``` files. Useful when you using [react.js](htt
 
 ## Installation 
 
-in your ```.vimrc``` add
+install with [vundle](https://github.com/gmarik/Vundle.vim)
 
-    Bundle 'git@github.com:wtfil/react-jsx.git'
+    Plugin 'wtfil/react-jsx'
 
 
 ## Setup
